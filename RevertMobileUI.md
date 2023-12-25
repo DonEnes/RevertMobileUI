@@ -1,4 +1,4 @@
-## Revert New Discord Layout (but the code is actually proper)
+## Revert New Discord Mobile Layout 
 
 How to use this script:
 1. Go to Discord app or https://discord.com/app
